@@ -3643,6 +3643,35 @@
         "publisher": "IETF",
         "source": "https://www.ietf.org/rfc/rfc-index.xml"
     },
+    "rfc10066": {
+        "rfcNumber": "RFC10066",
+        "href": "https://www.rfc-editor.org/info/rfc10066/",
+        "title": "Path Computation Element Communication Protocol (PCEP) Extensions for Signaling Multipath Information",
+        "authors": [
+            "M. Koldychev, Ed.",
+            "S. Sidor, Ed."
+        ],
+        "rawDate": "2026-10",
+        "status": "Proposed Standard",
+        "publisher": "IETF",
+        "source": "https://www.ietf.org/rfc/rfc-index.xml"
+    },
+    "rfc10067": {
+        "rfcNumber": "RFC10067",
+        "href": "https://www.rfc-editor.org/info/rfc10067/",
+        "title": "Path Computation Element Communication Protocol (PCEP) Extensions for Associated Bidirectional Segment Routing (SR) LSPs",
+        "authors": [
+            "C. Li, Ed.",
+            "M. Chen",
+            "W. Cheng",
+            "R. Gandhi, Ed.",
+            "Q. Xiong"
+        ],
+        "rawDate": "2026-10",
+        "status": "Proposed Standard",
+        "publisher": "IETF",
+        "source": "https://www.ietf.org/rfc/rfc-index.xml"
+    },
     "rfc1007": {
         "rfcNumber": "RFC1007",
         "href": "https://www.rfc-editor.org/info/rfc1007/",
