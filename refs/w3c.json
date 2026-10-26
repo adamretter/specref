@@ -184367,7 +184367,7 @@
         "isSeriesAlias": true
     },
     "shacl12-core": {
-        "rawDate": "2026-10-14",
+        "rawDate": "2026-10-25",
         "href": "https://www.w3.org/TR/shacl12-core/",
         "title": "SHACL 1.2 Core",
         "edDraft": "https://w3c.github.io/data-shapes/shacl12-core/",
