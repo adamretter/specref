@@ -3517,6 +3517,7 @@
         ],
         "rawDate": "2026-10",
         "status": "Experimental",
+        "hasErrata": "https://www.rfc-editor.org/errata/rfc10049",
         "publisher": "IETF",
         "source": "https://www.ietf.org/rfc/rfc-index.xml"
     },
@@ -139282,6 +139283,7 @@
         ],
         "rawDate": "2021-06",
         "status": "Proposed Standard",
+        "hasErrata": "https://www.rfc-editor.org/errata/rfc9039",
         "publisher": "IETF",
         "source": "https://www.ietf.org/rfc/rfc-index.xml"
     },

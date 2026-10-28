@@ -185306,7 +185306,7 @@
         "repository": "https://github.com/w3c/data-shapes"
     },
     "shacl12-inference-rules": {
-        "rawDate": "2026-09-17",
+        "rawDate": "2026-10-28",
         "href": "https://www.w3.org/TR/shacl12-inference-rules/",
         "title": "SHACL 1.2 Inference Rules",
         "edDraft": "https://w3c.github.io/data-shapes/shacl12-inference-rules/",
@@ -185332,13 +185332,13 @@
                 "source": "https://api.w3.org/specifications/shacl12-inference-rules/versions/20260917"
             }
         },
-        "status": "FPWD",
+        "status": "WD",
         "authors": [
             "Holger Knublauch",
-            "Simon Steyskal",
+            "Matt Goldberg",
             "Scott Henninger",
             "Livio Robaldo",
-            "Matt Goldberg"
+            "Simon Steyskal"
         ],
         "deliveredBy": [
             "https://www.w3.org/groups/wg/data-shapes/"
@@ -185346,7 +185346,7 @@
         "repository": "https://github.com/w3c/data-shapes"
     },
     "shacl12-node-expr": {
-        "rawDate": "2026-10-22",
+        "rawDate": "2026-10-28",
         "href": "https://www.w3.org/TR/shacl12-node-expr/",
         "title": "SHACL 1.2 Node Expressions",
         "edDraft": "https://w3c.github.io/data-shapes/shacl12-node-expr/",
