@@ -3548,6 +3548,22 @@
         "publisher": "IETF",
         "source": "https://www.ietf.org/rfc/rfc-index.xml"
     },
+    "rfc10051": {
+        "rfcNumber": "RFC10051",
+        "href": "https://www.rfc-editor.org/info/rfc10051/",
+        "title": "Task Extensions to iCalendar",
+        "authors": [
+            "A. Apthorp",
+            "M. Douglass"
+        ],
+        "rawDate": "2026-10",
+        "status": "Proposed Standard",
+        "updates": [
+            "RFC5545"
+        ],
+        "publisher": "IETF",
+        "source": "https://www.ietf.org/rfc/rfc-index.xml"
+    },
     "rfc10052": {
         "rfcNumber": "RFC10052",
         "href": "https://www.rfc-editor.org/info/rfc10052/",
@@ -79995,7 +80011,8 @@
             "RFC7986",
             "RFC9073",
             "RFC9074",
-            "RFC9253"
+            "RFC9253",
+            "RFC10051"
         ],
         "obsoletes": [
             "RFC2445"
@@ -110903,7 +110920,7 @@
             "P. Kyzivat"
         ],
         "rawDate": "2014-12",
-        "status": "Proposed Standard",
+        "status": "Internet Standard",
         "updates": [
             "RFC5234"
         ],
