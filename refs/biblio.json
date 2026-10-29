@@ -5742,6 +5742,26 @@
         "status": "Recommended Specification",
         "publisher": "IDPF"
     },
+    "functx-xquery": {
+        "href": "https://www.datypic.com/xq",
+        "title": "The FunctX XQuery 1.0 Function Library",
+        "date": "April 2007",
+        "status": "Published",
+        "publisher": "Datypic",
+        "authors": [
+            "Priscilla Walmsley"
+        ]
+    },
+    "functx-xslt": {
+        "href": "https://www.datypic.com/xsl",
+        "title": "The FunctX XSLT 2.0 Function Library",
+        "date": "April 2007",
+        "status": "Published",
+        "publisher": "Datypic",
+        "authors": [
+            "Priscilla Walmsley"
+        ]
+    },
     "geodcat-ap": {
         "href": "https://semiceu.github.io/GeoDCAT-AP/releases/",
         "title": "GeoDCAT-AP: A geospatial extension for the DCAT application profile for data portals in Europe",
