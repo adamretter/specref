@@ -5735,6 +5735,13 @@
     "domxpath": {
         "aliasOf": "DOM-Level-3-XPath"
     },
+    "epub-30": {
+        "href": "https://idpf.org/epub/30/spec/epub30-overview.html",
+        "title": "EPUB 3 Overview",
+        "rawDate": "2011-10-11",
+        "status": "Recommended Specification",
+        "publisher": "IDPF"
+    },
     "geodcat-ap": {
         "href": "https://semiceu.github.io/GeoDCAT-AP/releases/",
         "title": "GeoDCAT-AP: A geospatial extension for the DCAT application profile for data portals in Europe",
