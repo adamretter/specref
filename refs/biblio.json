@@ -6591,6 +6591,61 @@
         "date": "2015",
         "isoNumber": "ISO 19162:2015"
     },
+    "iso-26300": {
+        "href": "https://www.iso.org/standard/59302.html",
+        "title": "Open Document Format for Office Applications (OpenDocument) v1.0, Amendment 1: Open Document Format for Office Applications (OpenDocument) v1.1",
+        "rawDate": "2012-03",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2006": {
+                "href": "https://www.iso.org/standard/43485.html",
+                "title": "Open Document Format for Office Applications (OpenDocument) v1.0",
+                "rawDate": "2006-12",
+                "status": "Published",
+                "publisher": "ISO/IEC"
+            },
+            "2006-Amd-1-2012": {
+                "aliasOf": "iso-26300"
+            }
+        }
+    },
+    "iso-26300-1" : {
+        "href": "https://www.iso.org/standard/66363.html",
+        "title": "Open Document Format for Office Applications (OpenDocument) v1.2, Part 1: OpenDocument Schema",
+        "rawDate": "2015-07",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2015": {
+                "aliasOf": "iso-26300-1"
+            }
+        }
+    },
+    "iso-26300-2" : {
+        "href": "https://www.iso.org/standard/66375.html",
+        "title": "Open Document Format for Office Applications (OpenDocument) v1.2, Part 2: Recalculated Formula (OpenFormula) Format",
+        "rawDate": "2015-07",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2015": {
+                "aliasOf": "iso-26300-2"
+            }
+        }
+    },
+    "iso-26300-3" : {
+        "href": "https://www.iso.org/standard/66376.html",
+        "title": "Open Document Format for Office Applications (OpenDocument) v1.2, Part 3: Packages",
+        "rawDate": "2015-07",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2015": {
+                "aliasOf": "iso-26300-3"
+            }
+        }
+    },
     "iso-639": {
         "aliasOf": "iso-639-1988"
     },
