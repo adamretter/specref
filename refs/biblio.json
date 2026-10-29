@@ -5742,6 +5742,368 @@
         "status": "Recommended Specification",
         "publisher": "IDPF"
     },
+    "expath-archive": {
+        "href": "https://expath.org/spec/archive",
+        "title": "Archive Module",
+        "rawDate": "2013-09-30",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/archive/editor",
+        "versions": {
+            "20130930": {
+                "aliasOf": "expath-archive"
+            }
+        }
+    },
+    "expath-crypto": {
+        "href": "https://expath.org/spec/crypto",
+        "title": "Cryptographic Module 1.0",
+        "rawDate": "2015-02-14",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/crypto/editor",
+        "versions": {
+            "20110810": {
+                "href": "https://expath.org/spec/crypto/20110810",
+                "title": "Cryptographic Module",
+                "rawDate": "2011-08-10",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20150214": {
+                "aliasOf": "expath-crypto"
+            }
+        }
+    },
+    "expath-binary": {
+        "href": "https://expath.org/spec/binary",
+        "title": "Binary Module 1.0",
+        "rawDate": "2013-12-03",
+        "status": "EXPath Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/binary/editor",
+        "versions": {
+            "20130312": {
+                "href": "https://expath.org/spec/binary/20130312",
+                "title": "Binary Module",
+                "rawDate": "2013-03-12",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20130731": {
+                "href": "https://expath.org/spec/binary/20130731",
+                "title": "Binary Module",
+                "rawDate": "2013-07-31",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20130920": {
+                "href": "https://expath.org/spec/binary/20130920",
+                "title": "Binary Module",
+                "rawDate": "2013-09-20",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20131113": {
+                "href": "https://expath.org/spec/binary/20131113",
+                "title": "Binary Module",
+                "rawDate": "2013-11-13",
+                "status": "EXPath Proposed Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20131125": {
+                "href": "https://expath.org/spec/binary/20131125",
+                "title": "Binary Module",
+                "rawDate": "2013-11-25",
+                "status": "EXPath Proposed Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "10": {
+                "aliasOf": "expath-binary"
+            }
+        }
+    },
+    "expath-facet": {
+        "href": "https://expath.org/spec/facet",
+        "title": "Facet Module",
+        "rawDate": "2015-12-25",
+        "status": "EXPath Proposed Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/facet/editor",
+        "versions": {
+            "20151225": {
+                "aliasOf": "expath-facet"
+            }
+        }
+    },
+    "expath-file": {
+        "href": "https://expath.org/spec/file",
+        "title": "File Module 1.0",
+        "rawDate": "2015-02-20",
+        "status": "EXPath Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/file/editor",
+        "versions": {
+            "20100517": {
+                "href": "https://expath.org/spec/file/20100517",
+                "title": "File Module",
+                "rawDate": "2010-05-17",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20120614": {
+                "href": "https://expath.org/spec/file/20120614",
+                "title": "File Module",
+                "rawDate": "2012-06-14",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20131203": {
+                "href": "https://expath.org/spec/file/20131203",
+                "title": "File Module",
+                "rawDate": "2013-12-03",
+                "status": "EXPath Proposed Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "10": {
+                "aliasOf": "expath-file"
+            }
+        }
+    },
+    "expath-geo": {
+        "href": "https://expath.org/spec/geo",
+        "title": "Geo Module",
+        "rawDate": "2010-09-30",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/geo/editor",
+        "versions": {
+            "20100930": {
+                "aliasOf": "expath-geo"
+            }
+        }
+    },
+    "expath-http-model": {
+        "href": "https://expath.org/spec/http",
+        "title": "HTTP Model",
+        "rawDate": "2014-01-11",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/http/editor",
+        "versions": {
+            "20140111": {
+                "aliasOf": "expath-http-model"
+            }
+        }
+    },
+    "expath-http-client": {
+        "href": "https://expath.org/spec/http-client",
+        "title": "HTTP Client Module",
+        "rawDate": "2010-01-09",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/http-client/editor",
+        "versions": {
+            "20090112": {
+                "href": "https://expath.org/spec/http-client/20090112",
+                "title": "EXSLT 2.0 module - HTTP client",
+                "rawDate": "2009-01-12",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20090302": {
+                "href": "https://expath.org/spec/http-client/20090302",
+                "title": "EXSLT 2.0 module - HTTP client",
+                "rawDate": "2009-03-02",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20090413": {
+                "href": "https://expath.org/spec/http-client/20090413",
+                "title": "HTTP Client Module",
+                "rawDate": "2010-01-09",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20100109": {
+                "aliasOf": "expath-http-client"
+            }
+        }
+    },
+    "expath-mongo-api": {
+        "href": "https://expath.org/spec/mongo",
+        "title": "HTTP Model",
+        "rawDate": "2015-03-05",
+        "status": "EXPath Working Draft",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/mongo/editor",
+        "versions": {
+            "20150305": {
+                "aliasOf": "expath-mongo-api"
+            }
+        }
+    },
+    "expath-packaging-system": {
+        "href": "https://expath.org/spec/pkg",
+        "title": "Packaging System",
+        "rawDate": "2012-05-09",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/pkg/editor",
+        "versions": {
+            "20090901": {
+                "href": "https://expath.org/spec/pkg/20090901",
+                "title": "Packaging System",
+                "rawDate": "2009-09-01",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20091118": {
+                "href": "https://expath.org/spec/pkg/20091118",
+                "title": "Packaging System",
+                "rawDate": "2009-11-18",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20100107": {
+                "href": "https://expath.org/spec/pkg/20100107",
+                "title": "Packaging System",
+                "rawDate": "2010-01-07",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20101111": {
+                "href": "https://expath.org/spec/pkg/20101111",
+                "title": "Packaging System",
+                "rawDate": "2010-11-11",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20120509": {
+                "aliasOf": "expath-packaging-system"
+            }
+        }
+    },
+    "expath-webapp-framework": {
+        "href": "https://expath.org/spec/webapp",
+        "title": "Web Applications",
+        "rawDate": "2013-04-01",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/webapp/editor",
+        "versions": {
+            "20150305": {
+                "aliasOf": "expath-webapp-framework"
+            }
+        }
+    },
+    "expath-zip": {
+        "href": "https://expath.org/spec/zip",
+        "title": "Zip Module",
+        "rawDate": "2010-10-12",
+        "status": "EXPath Candidate Module",
+        "publisher": "EXPath CG",
+        "authors": [
+            "W3C EXPath Community Group"
+        ],
+        "edDraft": "https://expath.org/spec/zip/editor",
+        "versions": {
+            "20090526": {
+                "href": "https://expath.org/spec/zip/20090526",
+                "title": "Zip Module",
+                "rawDate": "2009-05-26",
+                "status": "EXPath Candidate Module",
+                "publisher": "EXPath CG",
+                "authors": [
+                    "W3C EXPath Community Group"
+                ]
+            },
+            "20101012": {
+                "aliasOf": "expath-zip"
+            }
+        }
+    },
     "functx-xquery": {
         "href": "https://www.datypic.com/xq",
         "title": "The FunctX XQuery 1.0 Function Library",
