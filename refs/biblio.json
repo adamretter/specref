@@ -6646,6 +6646,152 @@
             }
         }
     },
+    "iso-29500-1": {
+        "href": "https://www.iso.org/standard/71691.html",
+        "title": "Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference",
+        "rawDate": "2016-11",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2008": {
+                "href": "https://www.iso.org/standard/51463.html",
+                "title": "Office Open XML File Formats, Part 1: Fundamentals and Markup Language Reference",
+                "rawDate": "2008-11",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2008-Amd-1-2010": {
+                "href": "https://www.iso.org/standard/54801.html",
+                "title": "Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference, Amendment 1",
+                "rawDate": "2010-08",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2011": {
+                "href": "https://www.iso.org/standard/59575.html",
+                "title": "Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference",
+                "rawDate": "2011-08",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2012": {
+                "href": "https://www.iso.org/standard/61750.html",
+                "title": "Office Open XML File Formats — Part 1: Fundamentals and Markup Language Reference",
+                "rawDate": "2012-09",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2016": {
+                "aliasOf": "iso-29500-1"
+            }
+        }
+    },
+    "iso-29500-2": {
+        "href": "https://www.iso.org/standard/77818.html",
+        "title": "Office Open XML File Formats — Part 2: Open packaging conventions",
+        "rawDate": "2021-08",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2008": {
+                "href": "https://www.iso.org/standard/51459.html",
+                "title": "Office Open XML File Formats, Part 2: Open packaging conventions",
+                "rawDate": "2008-11",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2011": {
+                "href": "https://www.iso.org/standard/59576.html",
+                "title": "Office Open XML File Formats — Part 2: Open packaging conventions",
+                "rawDate": "2011-08",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2012": {
+                "href": "https://www.iso.org/standard/61796.html",
+                "title": "Office Open XML File Formats — Part 2: Open packaging conventions",
+                "rawDate": "2012-09",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2021": {
+                "aliasOf": "iso-29500-2"
+            }
+        }
+    },
+    "iso-29500-3": {
+        "href": "https://www.iso.org/standard/65533.html",
+        "title": "Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility",
+        "rawDate": "2015-07",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2008": {
+                "href": "https://www.iso.org/standard/51461.html",
+                "title": "Office Open XML File Formats, Part 3: Markup Compatibility and Extensibility",
+                "rawDate": "2008-11",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2011": {
+                "href": "https://www.iso.org/standard/59577.html",
+                "title": "Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility",
+                "rawDate": "2011-08",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2012": {
+                "href": "https://www.iso.org/standard/61797.html",
+                "title": "Office Open XML File Formats — Part 3: Markup Compatibility and Extensibility",
+                "rawDate": "2012-09",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2015": {
+                "aliasOf": "iso-29500-3"
+            }
+        }
+    },
+    "iso-29500-4": {
+        "href": "https://www.iso.org/standard/71692.html",
+        "title": "Office Open XML File Formats — Part 4: Transitional Migration Features",
+        "rawDate": "2016-11",
+        "status": "Published",
+        "publisher": "ISO/IEC",
+        "versions": {
+            "2008": {
+                "href": "https://www.iso.org/standard/51462.html",
+                "title": "Office Open XML File Formats, Part 4: Transitional Migration Features",
+                "rawDate": "2008-11",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2008-Amd-1-2010": {
+                "href": "https://www.iso.org/contents/data/standard/05/48/54803.html",
+                "title": "Office Open XML File Formats — Part 4: Transitional Migration Features, Amendment 1",
+                "rawDate": "2010-08",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2011": {
+                "href": "https://www.iso.org/standard/59578.html",
+                "title": "Office Open XML File Formats — Part 4: Transitional Migration Features",
+                "rawDate": "2011-08",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2012": {
+                "href": "https://www.iso.org/standard/61798.html",
+                "title": "Office Open XML File Formats — Part 4: Transitional Migration Features",
+                "rawDate": "2012-09",
+                "status": "Withdrawn",
+                "publisher": "ISO/IEC"
+            },
+            "2016": {
+                "aliasOf": "iso-29500-4"
+            }
+        }
+    },
     "iso-639": {
         "aliasOf": "iso-639-1988"
     },
