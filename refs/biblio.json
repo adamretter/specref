@@ -7394,6 +7394,46 @@
         "rawDate": "2013",
         "title": "RightsML"
     },
+    "semver":{
+        "href": "https://semver.org/spec/v2.0.0.html",
+        "title": "Semantic Versioning 2.0.0",
+        "rawDate": "2013-06-18",
+        "status": "Published",
+        "publisher": "Tom Preston-Werner",
+        "versions": {
+            "100-beta": {
+                "href": "https://semver.org/spec/v1.0.0-beta.html",
+                "title": "Semantic Versioning 1.0.0-beta",
+                "rawDate": "2011-06-08",
+                "status": "Published",
+                "publisher": "Tom Preston-Werner"
+            },
+            "100": {
+                "href": "https://semver.org/spec/v1.0.0.html",
+                "title": "Semantic Versioning 1.0.0",
+                "rawDate": "2011-09-07",
+                "status": "Published",
+                "publisher": "Tom Preston-Werner"
+            },
+            "200-rc-1": {
+                "href": "https://semver.org/spec/v2.0.0-rc.1.html",
+                "title": "Semantic Versioning 2.0.0-rc.1",
+                "rawDate": "2013-01-24",
+                "status": "Published",
+                "publisher": "Tom Preston-Werner"
+            },
+            "200-rc-2": {
+                "href": "https://semver.org/spec/v2.0.0-rc.2.html",
+                "title": "Semantic Versioning 2.0.0-rc.2",
+                "rawDate": "2013-03-20",
+                "status": "Published",
+                "publisher": "Tom Preston-Werner"
+            },
+            "200": {
+                "aliasOf": "semver"
+            }
+        }
+    },
     "schema-org": {
         "authors": [
             "W3C Schema.org Community Group"
