@@ -7005,6 +7005,32 @@
             }
         }
     },
+    "jsoniq": {
+        "href": "https://www.jsoniq.org/docs/JSONiqExtensionToXQuery/html-single/index.html",
+        "title": "JSONiq Extension to XQuery 1.0 (Edition 1.0.4)",
+        "rawDate": "2015-08-07",
+        "status": "Published",
+        "publisher": "JSONiq",
+        "versions": {
+            "10": {
+                "aliasOf": "jsoniq"
+            },
+            "04": {
+                "href": "https://www.jsoniq.org/docs/JSONiqExtensionToXQuery/pdf/Language_Specification-0.4.42-JSONiq-en-US.pdf",
+                "title": "JSONiq Language Specification 0.4 (Edition 0.4.42)",
+                "rawDate": "2012-09-27",
+                "status": "Published",
+                "publisher": "JSONiq"
+            },
+            "20240719": {
+                "href": "https://www.jsoniq.org/docs/JSONiq/webhelp/index.html",
+                "title": "JSONiq",
+                "rawDate": "2024-07-19",
+                "status": "Published",
+                "publisher": "JSONiq"
+            }
+        }
+    },
     "locn": {
         "authors": [
             "Andrea Perego",
