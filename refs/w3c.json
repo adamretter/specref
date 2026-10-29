@@ -8064,7 +8064,7 @@
         ],
         "href": "https://www.w3.org/TR/IndexedDB-3/",
         "title": "Indexed Database API 3.0",
-        "rawDate": "2025-08-13",
+        "rawDate": "2026-10-29",
         "status": "WD",
         "publisher": "W3C",
         "edDraft": "https://w3c.github.io/IndexedDB/",
@@ -50713,7 +50713,7 @@
         ],
         "href": "https://www.w3.org/TR/css-color-4/",
         "title": "CSS Color Module Level 4",
-        "rawDate": "2026-10-27",
+        "rawDate": "2026-10-29",
         "status": "CRD",
         "publisher": "W3C",
         "edDraft": "https://drafts.csswg.org/css-color-4/",
@@ -51240,7 +51240,7 @@
         ],
         "href": "https://www.w3.org/TR/css-color-5/",
         "title": "CSS Color Module Level 5",
-        "rawDate": "2026-10-26",
+        "rawDate": "2026-10-29",
         "status": "WD",
         "publisher": "W3C",
         "edDraft": "https://drafts.csswg.org/css-color-5/",
@@ -123002,12 +123002,12 @@
         ],
         "href": "https://www.w3.org/TR/latn-gap/",
         "title": "Latin Script Gap Analysis",
-        "rawDate": "2025-05-31",
+        "rawDate": "2026-10-29",
         "status": "DNOTE",
         "publisher": "W3C",
         "edDraft": "https://w3c.github.io/eurlreq/gap-analysis/latn-gap",
         "deliveredBy": [
-            "https://www.w3.org/International/core/"
+            "https://www.w3.org/International/i18n-activity/i18n-wg/"
         ],
         "source": "https://api.w3.org/specifications/latn-gap",
         "versions": {
