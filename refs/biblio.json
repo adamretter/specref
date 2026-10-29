@@ -7806,5 +7806,24 @@
             "Eric Meyer"
         ],
         "publisher": "Global Multimedia Protocols Group"
+    },
+    "xml-catalog": {
+        "href": "https://groups.oasis-open.org/higherlogic/ws/public/download/14810/xml-catalogs.pdf",
+        "title": "XML Catalogs v1.1",
+        "rawDate": "2005-10-07",
+        "status": "Committee Specification",
+        "publisher": "OASIS",
+        "versions": {
+            "10": {
+                "href": "https://www.oasis-open.org/committees/entity/specs/cs-entity-xml-catalogs-1.0.html",
+                "title": "XML Catalogs v1.0",
+                "rawDate": "2002-10-24",
+                "status": "Committee Specification",
+                "publisher": "OASIS"
+            },
+            "11": {
+                "aliasOf": "xml-catalog"
+            }
+        }
     }
 }
